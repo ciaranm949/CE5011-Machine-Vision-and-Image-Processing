@@ -6,3 +6,6 @@ matplotlib
 scikit-learn
 ipykernel
 tqdm
+kaggle
+urllib3
+imutils

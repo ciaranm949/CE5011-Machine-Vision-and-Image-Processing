@@ -4,3 +4,6 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .env.*
+/Assignment3/scenes
+/Assignment3/shipsnet
+/Assignment3/shipsnet.json
